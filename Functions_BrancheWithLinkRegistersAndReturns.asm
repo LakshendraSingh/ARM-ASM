@@ -7,4 +7,4 @@ _start:
 
 add2:
 	ADD R2, R0, R1
-	bx lr @branch back to location stored in register
+	bx lr @branch back to location stored in link register
